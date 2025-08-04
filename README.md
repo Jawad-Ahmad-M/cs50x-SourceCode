@@ -39,20 +39,21 @@ This repository contains my personal solutions, source code, and notes from the 
 
 ## 📂 Folder Structure
 
+```plaintext
 cs50x/
 │
-├── week0/ # Scratch project (image or link to Scratch)
-├── week1/ # C programs: Mario, Cash, Credit
-├── week2/ # Caesar, Substitution, Readability
-├── week3/ # Plurality, Tideman
-├── week4/ # Recover, Filter
-├── week5/ # Speller (Hash Table, Dictionary)
-├── week6/ # Python: DNA
-├── week7/ # SQL: Movies
-├── week8/ # Web: Homepage with HTML/CSS/JS
-├── week9/ # Flask App
-└── final_project/ # My custom CS50x Final Project
-
+├── Week 0/           # Scratch project (image or link to Scratch)
+├── Week 1/           # C programs: Mario, Cash, Credit
+├── Week 2/           # Caesar, Substitution, Readability
+├── Week 3/           # Plurality, Tideman etc.
+├── Week 4/           # Recover, Filter etc.
+├── Week 5/           # Speller (Hash Table, Dictionary) etc.
+├── Week 6/           # Python: DNA etc.
+├── Week 7/           # SQL: Movies etc.
+├── Week 8/           # Web: Homepage with HTML/CSS/JS 
+├── Week 9/           # Flask App etc.
+└── Final Project/   # My custom CS50x Final Project
+```
 ---
 
 ## 🛠 Tools Used
