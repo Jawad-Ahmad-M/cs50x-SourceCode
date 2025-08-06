@@ -28,7 +28,7 @@ This repository contains my personal solutions, source code, and notes from the 
 | 2    | Arrays                           | Readability, Caesar, Substitution | ✅ Done   |
 | 3    | Algorithms (Search, Sort)        | Sort, Runoff, Tideman, Plurality           | 🔄 In Progress   |
 | 4    | Memory, Pointers                 | Filter, Recover              | 🔲 Pending |
-| 5    | Data Structures                  | Speller                      | 🔄 In Progress |
+| 5    | Data Structures                  | Speller                      | 🔲 Pending |
 | 6    | Python                           | DNA                          | 🔲 Pending |
 | 7    | SQL                              | Movies                       | 🔲 Pending |
 | 8    | Web Development (HTML/CSS/JS)    | Homepage                     | 🔲 Pending |
@@ -42,19 +42,18 @@ This repository contains my personal solutions, source code, and notes from the 
 ```plaintext
 cs50x/
 │
-├── Practice Problem
-(Other than Problem Sets)/         # Problems other than Problem Sets
-├── Week 0/           # Scratch project (image or link to Scratch)
-├── Week 1/           # C programs: Mario, Cash, Credit
-├── Week 2/           # Caesar, Substitution, Readability
-├── Week 3/           # Plurality, Tideman etc.
-├── Week 4/           # Recover, Filter etc.
-├── Week 5/           # Speller (Hash Table, Dictionary) etc.
-├── Week 6/           # Python: DNA etc.
-├── Week 7/           # SQL: Movies etc.
-├── Week 8/           # Web: Homepage with HTML/CSS/JS 
-├── Week 9/           # Flask App etc.
-└── Final Project/   # My custom CS50x Final Project
+├── Practice Problem(Other than Problem Sets)/   # Problems other than Problem Sets
+├── Week 0/                                      # Scratch project (image or link to Scratch)
+├── Week 1/                                      # C programs: Mario, Cash, Credit
+├── Week 2/                                      # Caesar, Substitution, Readability
+├── Week 3/                                      # Plurality, Tideman etc.
+├── Week 4/                                      # Recover, Filter etc.
+├── Week 5/                                      # Speller (Hash Table, Dictionary) etc.
+├── Week 6/                                      # Python: DNA etc.
+├── Week 7/                                      # SQL: Movies etc.
+├── Week 8/                                      # Web: Homepage with HTML/CSS/JS 
+├── Week 9/                                      # Flask App etc.
+└── Final Project/                               # My custom CS50x Final Project
 ```
 ---
 
