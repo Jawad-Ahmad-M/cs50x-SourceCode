@@ -42,6 +42,8 @@ This repository contains my personal solutions, source code, and notes from the 
 ```plaintext
 cs50x/
 │
+├── Practice Problem
+(Other than Problem Sets)/         # Problems other than Problem Sets
 ├── Week 0/           # Scratch project (image or link to Scratch)
 ├── Week 1/           # C programs: Mario, Cash, Credit
 ├── Week 2/           # Caesar, Substitution, Readability
