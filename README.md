@@ -27,7 +27,7 @@ This repository contains my personal solutions, source code, and notes from the 
 | 1    | C, Linux, CLI                    | Mario, Cash, Credit          | ✅ Done   |
 | 2    | Arrays                           | Readability, Caesar, Substitution | ✅ Done   |
 | 3    | Algorithms (Search, Sort)        | Sort, Runoff, Tideman, Plurality           | ✅ Done   |
-| 4    | Memory, Pointers                 | Filter, Recover              |  🔄 In Progress |
+| 4    | Memory, Pointers                 | Volume, Filter, Recover              |  🔄 In Progress |
 | 5    | Data Structures                  | Speller                      | 🔲 Pending |
 | 6    | Python                           | DNA                          | 🔲 Pending |
 | 7    | SQL                              | Movies                       | 🔲 Pending |
