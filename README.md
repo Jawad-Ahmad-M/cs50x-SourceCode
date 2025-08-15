@@ -27,12 +27,12 @@ This repository contains my personal solutions, source code, and notes from the 
 | 1    | C, Linux, CLI                    | Mario, Cash, Credit          | ✅ Done   |
 | 2    | Arrays                           | Readability, Caesar, Substitution | ✅ Done   |
 | 3    | Algorithms (Search, Sort)        | Sort, Runoff, Tideman, Plurality           | ✅ Done   |
-| 4    | Memory, Pointers                 | Volume, Filter, Recover              |  🔄 In Progress |
-| 5    | Data Structures                  | Speller                      | 🔲 Pending |
+| 4    | Memory, Pointers                 | Volume, Filter, Recover              |  ✅ Done |
+| 5    | Data Structures                  | Inheritance, Speller                      | 🔄 In Progress |
 | 6    | Python                           | DNA                          | 🔲 Pending |
-| 7    | SQL                              | Movies                       | 🔲 Pending |
-| 8    | Web Development (HTML/CSS/JS)    | Homepage                     | 🔲 Pending |
-| 9    | Flask                            | Final Project                | 🔲 Pending |
+| 7    | SQL                              | Songs, Movies, Fiftyville                       | 🔲 Pending |
+| 8    | Web Development (HTML/CSS/JS)    | Trivia, Homepage                     | 🔲 Pending |
+| 9    | Flask                            | Birthday, Finance               | 🔲 Pending |
 | 10   | Final Project                    | My Own Capstone              | 🔲 Pending |
 
 ---
