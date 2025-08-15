@@ -15,7 +15,7 @@ This repository contains my personal solutions, source code, and notes from the 
 - Python
 - SQL
 - Web Programming
-- Cybersecurity and More
+- Flask and more
 
 ---
 
