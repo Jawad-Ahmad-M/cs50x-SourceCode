@@ -1,6 +1,6 @@
 # 💻 CS50x – Introduction to Computer Science (Harvard)
 
-This repository contains my personal solutions, source code, and notes from the **CS50x** course offered by **Harvard University** on [edX](https://cs50.harvard.edu/x/). All code is written by me and adheres to the academic honesty policy set by the course.
+This repository contains my personal solutions, source code, and notes from the **CS50x** course offered by **Harvard University** on [Harvard's Official Website](https://cs50.harvard.edu/x/). All code is written by me and adheres to the academic honesty policy set by the course.
 
 ---
 
