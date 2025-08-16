@@ -29,7 +29,7 @@ This repository contains my personal solutions, source code, and notes from the 
 | 3    | Algorithms (Search, Sort)        | Sort, Runoff, Tideman, Plurality           | ✅ Done   |
 | 4    | Memory, Pointers                 | Volume, Filter, Recover              |  ✅ Done |
 | 5    | Data Structures                  | Inheritance, Speller                      | 🔄 In Progress |
-| 6    | Python                           | DNA                          | 🔄 In Progress |
+| 6    | Python                           | DNA                          | ✅ Done |
 | 7    | SQL                              | Songs, Movies, Fiftyville                       | 🔄 In Progress |
 | 8    | Web Development (HTML/CSS/JS)    | Trivia, Homepage                     | 🔲 Pending |
 | 9    | Flask                            | Birthday, Finance               | 🔲 Pending |
