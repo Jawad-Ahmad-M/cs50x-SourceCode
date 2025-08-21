@@ -1,0 +1,9 @@
+If the songs.db contains the top 100 songs of a listener in 2018, i would characterize their audio aura using
+by calculating the average energy, valence and danceability, High values suggest me that the artist is a upbeat
+or joyfull mode, but lower level values show that the song is calm. A listner with energetic and high-valence
+tracks might have aura of happy or exited.
+
+However the method oversimplifies listening habits of a person who listense the songs, Average will ignore variety
+which can give us more info about that person, what he like to play, and it's context of what he listens, someone
+who listens both sad and energetic songs might lie in the neutral mode which is not a good and proper evaluation
+that why the averaging is not the accurate method for deciding the audio aura of any person.
