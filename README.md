@@ -32,8 +32,8 @@ This repository contains my personal solutions, source code, and notes from the 
 | 6    | Python                           | DNA                          | ✅ Done |
 | 7    | SQL                              | Songs, Movies, Fiftyville                       | ✅ Done |
 | 8    | Web Development (HTML/CSS/JS)    | Trivia, Homepage                     | ✅ Done |
-| 9    | Flask                            | Birthday, Finance               | 🔄 In Progress |
-| 10   | Final Project                    | My Own Capstone              | 🔲 Pending |
+| 9    | Flask                            | Birthday, Finance               | ✅ Done |
+| 10   | Final Project                    | My Own Capstone              | 🔄 In Progress |
 
 ---
 
