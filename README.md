@@ -28,7 +28,7 @@ This repository contains my personal solutions, source code, and notes from the 
 | 2    | Arrays                           | Readability, Caesar, Substitution | ✅ Done   |
 | 3    | Algorithms (Search, Sort)        | Sort, Runoff, Tideman, Plurality           | ✅ Done   |
 | 4    | Memory, Pointers                 | Volume, Filter, Recover              |  ✅ Done |
-| 5    | Data Structures                  | Inheritance, Speller                      | 🔄 In Progress |
+| 5    | Data Structures                  | Inheritance, Speller                      | ✅ Done |
 | 6    | Python                           | DNA                          | ✅ Done |
 | 7    | SQL                              | Songs, Movies, Fiftyville                       | ✅ Done |
 | 8    | Web Development (HTML/CSS/JS)    | Trivia, Homepage                     | ✅ Done |
@@ -48,12 +48,12 @@ cs50x/
 ├── Week 2/                                      # Caesar, Substitution, Readability
 ├── Week 3/                                      # Plurality, Tideman etc.
 ├── Week 4/                                      # Recover, Filter etc.
-├── Week 5/                                      # Speller (Hash Table, Dictionary) etc.
+├── Week 5/                                      # Inheritance, Speller (Hash Table, Dictionary) etc.
 ├── Week 6/                                      # Python: DNA etc.
 ├── Week 7/                                      # SQL: Movies etc.
 ├── Week 8/                                      # Web: Homepage with HTML/CSS/JS 
 ├── Week 9/                                      # Flask App etc.
-└── Final Project/                               # My custom CS50x Final Project
+└── Final Project/                               # RLE CompDecomp
 ```
 ---
 
